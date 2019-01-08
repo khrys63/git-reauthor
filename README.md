@@ -15,5 +15,7 @@ And
 ./script4all
 ```
 
+Script script4specific is for rename only one commiter.
+
 ## Thanks
 [GitHub Help](https://help.github.com/articles/changing-author-info/)
