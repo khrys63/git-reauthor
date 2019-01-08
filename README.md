@@ -7,7 +7,7 @@ Change variable :OLD_EMAIL, CORRECT_NAME and CORRECT_EMAIL
 
 Execute
 ```
-chmod +x script
+chmod +x script4all
 ```
 
 And
